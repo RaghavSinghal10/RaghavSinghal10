@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Raghav, an AI Researcher at MBZUAI, working with [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
+I am Raghav, an AI Researcher at MIT and MBZUAI, working with [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 
 🏠 You can learn more about my work at [my website](https://raghavsinghal10.github.io/).
 
