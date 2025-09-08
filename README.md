@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-I am Raghav, an AI Researcher at MIT and MBZUAI, working with [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
+I am Raghav, an AI PhD Researcher at EPFL.
+
+Previously, I was an AI researcher at MIT and MBZUAI, working with [Prof. Praneeth Vepakomma](https://sites.mit.edu/praneeth/). 
 
 🏠 You can learn more about my work at [my website](https://raghavsinghal10.github.io/).
 
-💻 Code for a few of my projects is available in the [CERT Lab organization](https://github.com/CERT-Lab).
+💻 Code for a few of my previous projects is available in the [CERT Lab organization](https://github.com/CERT-Lab).
 
 <!--
 **RaghavSinghal10/RaghavSinghal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
